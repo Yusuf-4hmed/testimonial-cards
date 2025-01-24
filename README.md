@@ -6,7 +6,7 @@
   </p>
 </div>
 
-<p><a href="https://yusuf-4hmed.github.io/change-log-component/">View live project</a></p>
+<p><a href="https://yusuf-4hmed.github.io/testimonial-cards/">View live project</a></p>
 
 ### Built With
 
