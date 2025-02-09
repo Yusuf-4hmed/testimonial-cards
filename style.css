@@ -1,6 +1,7 @@
 *{
     font-family: sans-serif;
 }
+/* SMALL CONTAINER (BOB) */
 
 .small-container{
     /* border: 1px solid black; */
@@ -46,4 +47,35 @@
     width: 80px;
     height: 80px;
     border-radius: 50%;
+}
+
+/* STAR CONTAINER */
+
+.star-review-container {
+    background-color: rgb(48, 48, 48);
+    width: 400px;
+    height: 170px;
+    border-radius: 20px;
+    padding: 32px;
+    color: white;
+}
+
+.stars {
+    display: flex;
+    gap: 0px;
+}
+
+.star-review-individual h3 {
+    margin-bottom: 0px;
+}
+
+.star-review-individual p {
+    opacity: .5;
+    margin-top: 5px;
+}
+
+.star {
+    color: rgb(255, 238, 0);
+    font-size: 27px;
+    
 }
